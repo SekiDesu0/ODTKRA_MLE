@@ -133,7 +133,7 @@ if check_ODT():
 print("Starting ODT")
 parser = argparse.ArgumentParser()
 parser.add_argument('--odt-path', help='Path to OculusDebugTool.exe', default="C:\\Program Files\\Oculus\\Support\\oculus-diagnostics\\", type=str)
-parser.add_argument('--leak-size', help='Define max leak size in MB', default=100, type=int)
+parser.add_argument('--leak-size', help='Define max leak size in MB', default=750, type=int)
 parser.add_argument('--refresh-time', help='Define refresh time in minutes', default=9, type=int)
 
 args = parser.parse_args()
