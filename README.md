@@ -15,7 +15,7 @@ Instructions:
 Launch Options:
 
 - --odt-path ``--odt-path [Oculus Diagnostics Directory]``
-  - Example ``--odt-path "C:\\Program Files\\Oculus\\\Support\\\oculus-diagnostics\\"``
+  - Example ``--odt-path "C:\\Program Files\\Oculus\\Support\\oculus-diagnostics\\"``
  
 - --leak-size ``--leak-size [amount of memory in MB ODTKRA_MLE detects as a memory leak]``
   - Example ``--leak-size 750``
