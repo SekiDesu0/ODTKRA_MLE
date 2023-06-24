@@ -23,4 +23,4 @@ Launch Options:
 
 You can also add launch options by creating a shortcut, right clicking on it and going into properties and adding it here
 
-![Path Image](/Images/Path.png)
+![Path Image](/Images/odt-path.png)
