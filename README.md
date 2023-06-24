@@ -8,7 +8,7 @@ Instructions:
 
 - Run exe after starting Touch Link or Driver4VR (depending on what software you are running)
 
-- Let ODTKRA_MLE do its thing, it will contantly check if the Oculus Debug Tool memory usage is too high and try to kill it.
+- Let ODTKRA_MLE do its thing, it will constantly check if the Oculus Debug Tool memory usage is too high and try to kill it.
 
 - Your headset will now not go to sleep, if it does, restart ODTKRA_MLE.
 
